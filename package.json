@@ -1,5 +1,5 @@
 {
-  "name": "layercake-template-sveltekit",
+  "name": "layercake-template-sveltekit-test",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
